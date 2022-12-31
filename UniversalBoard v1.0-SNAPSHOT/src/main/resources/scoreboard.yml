@@ -1,0 +1,67 @@
+SCOREBOARD:
+  ENABLED: true # true/false
+  TITLE:
+    NO-ANIMATION:
+      ENABLED: false
+      TITLE: "%TITLE%"
+    ANIMATION:
+      ENABLED: true
+      INTERVAL: 0.5 #In seconds
+      TITLE:
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&f&lU&5&lniversalBoard"
+        - "&f&lU&5&lniversalBoard"
+        - "&5&lU&f&ln&5&liversalBoard"
+        - "&5&lU&f&ln&5&liversalBoard"
+        - "&5&lUn&f&li&5&lversalBoard"
+        - "&5&lUn&f&li&5&lversalBoard"
+        - "&5&lUni&f&lv&5&lersalBoard"
+        - "&5&lUni&f&lv&5&lersalBoard"
+        - "&5&lUniv&f&le&5&lrsalBoard"
+        - "&5&lUniv&f&le&5&lrsalBoard"
+        - "&5&lUnive&f&lr&5&lsalBoard"
+        - "&5&lUnive&f&lr&5&lsalBoard"
+        - "&5&lUniver&f&ls&5&lalBoard"
+        - "&5&lUniver&f&ls&5&lalBoard"
+        - "&5&lUnivers&f&la&5&llBoard"
+        - "&5&lUnivers&f&la&5&llBoard"
+        - "&5&lUniversa&f&ll&5&lBoard"
+        - "&5&lUniversa&f&ll&5&lBoard"
+        - "&5&lUniversal&f&lB&5&loard"
+        - "&5&lUniversal&f&lB&5&loard"
+        - "&5&lUniversalB&f&lo&5&lard"
+        - "&5&lUniversalB&f&lo&5&lard"
+        - "&5&lUniversalBo&f&la&5&lrd"
+        - "&5&lUniversalBo&f&la&5&lrd"
+        - "&5&lUniversalBoa&f&lr&5&ld"
+        - "&5&lUniversalBoa&f&lr&5&ld"
+        - "&5&lUniversalBoar&f&ld"
+        - "&5&lUniversalBoar&f&ld"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+        - "&5&lUniversalBoard"
+  LINES:
+    - "&7&m-------------------------"
+    - "&5&lRank:"
+    - "%vault_group%"
+    - ""
+    - "&5&lGlobal:"
+    - "&f%pinger_players_localhost:25565%/1000"
+    - "&7&m-------------------------"
+    - "%FOOTER%"
+
+  FOOTER:
+    ANIMATION:
+      ENABLED: true
+      INTERVAL: 2 # In seconds
+      FOOTER:
+        - "&7universalboard.com"
+        - "&astore.universalboard.com"
+        - "&bts.universalboard.com"
+        - "&3@UniversalCommunity"

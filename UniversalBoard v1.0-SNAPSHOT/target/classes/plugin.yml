@@ -1,0 +1,4 @@
+name: UniversalBoard
+version: 1.0-SNAPSHOT
+main: me.excess.universalboard.UniversalBoard
+description: Simple plugin for scoreboard

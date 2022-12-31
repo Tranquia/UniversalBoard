@@ -1,0 +1,16 @@
+io\github\thatkawaiisam\assemble\Assemble.class
+io\github\thatkawaiisam\assemble\AssembleBoardEntry.class
+io\github\thatkawaiisam\assemble\AssembleStyle.class
+io\github\thatkawaiisam\assemble\AssembleAdapter.class
+me\excess\universalboard\utils\CC.class
+io\github\thatkawaiisam\assemble\AssembleUtils.class
+me\excess\universalboard\UniversalBoard.class
+me\excess\universalboard\providers\ScoreboardProvider.class
+io\github\thatkawaiisam\assemble\events\AssembleBoardCreatedEvent.class
+io\github\thatkawaiisam\assemble\AssembleListener.class
+io\github\thatkawaiisam\assemble\AssembleThread.class
+io\github\thatkawaiisam\assemble\events\AssembleBoardDestroyEvent.class
+me\excess\universalboard\utils\ConfigCreator.class
+io\github\thatkawaiisam\assemble\events\AssembleBoardCreateEvent.class
+io\github\thatkawaiisam\assemble\AssembleBoard.class
+io\github\thatkawaiisam\assemble\AssembleException.class
